@@ -47,8 +47,10 @@ A specialized moderation tool designed exclusively for BlocksMC staff members. T
 - Game-specific ban commands
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/e416fc1b-7790-4066-8efc-5e79e1279b23)
+![image](https://github.com/user-attachments/assets/23c1841d-e0ce-47bd-9569-2f3f624a9156)
+![image](https://github.com/user-attachments/assets/026a426e-553b-4746-862c-1c99a5d31e24)
 
-[Add your screenshots here]
 
 ## ⚠️ Important Notes
 - **Staff Only**: This mod is exclusively for BlocksMC moderators
