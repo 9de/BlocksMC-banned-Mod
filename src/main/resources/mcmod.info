@@ -1,0 +1,26 @@
+[
+    {
+        "modid": "bannedmod",
+        "name": "Banned Gui Mod",
+        "description": "A modern and beautiful reporting interface for staff members.\n§bFeatures:\n§7• Modern UI design\n§7• Easy player selection\n§7• Quick reporting options\n§7• Customizable categories",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/9de/BlocksMC-banned-Mod",
+        "updateUrl": "",
+        "authorList": [
+            "Turki"
+        ],
+        "credits": "Thanks to:\n§b• Minecraft Forge Team\n§b• All the staff members who provided feedback",
+        "logoFile": "assets/reportmod/logo.png",
+        "screenshots": [
+            "assets/reportmod/screenshots/main.png",
+            "assets/reportmod/screenshots/report.png"
+        ],
+        "dependencies": [],
+        "useDependencyInformation": true,
+        "requiredMods": ["Forge"],
+        "parent": "",
+        "parentMod": "",
+        "type": "ADMIN_TOOL"
+    }
+]
